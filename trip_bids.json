@@ -1,0 +1,14 @@
+[
+    {
+        "truckNumber" : "1234**",
+        "biddingCost" : "9000",
+        "truckModel" : "NISAN FT9",
+        "truckType" : "1 Ton 7 Feet"
+    },
+    {
+        "truckNumber" : "1234**",
+        "biddingCost" : "9000",
+        "truckModel" : "NISAN FT9",
+        "truckType" : "1 Ton 7 Feet"
+    }
+]
