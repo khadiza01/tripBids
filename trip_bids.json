@@ -1,14 +1,38 @@
 [
-    {
-        "truckNumber" : "1234**",
-        "biddingCost" : "9000",
-        "truckModel" : "NISAN FT9",
-        "truckType" : "1 Ton 7 Feet"
+     {
+        "TripID" : "54321",
+        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
+        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
+        "Time" : "রাত ৯ টা",
+        "Date" : "2019-10-30", 
+        "bidCount" : "০",
+        "lowestBid" : "০"
     },
     {
-        "truckNumber" : "1234**",
-        "biddingCost" : "9000",
-        "truckModel" : "NISAN FT9",
-        "truckType" : "1 Ton 7 Feet"
+        "TripID" : "54321",
+        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
+        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
+        "Time" : "রাত ৯ টা",
+        "Date" : "2019-10-31", 
+        "bidCount" : "০",
+        "lowestBid" : "০"
+    },
+    {
+        "TripID" : "54321",
+        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
+        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
+        "Time" : "রাত ৯ টা",
+        "Date" : "2019-09-16", 
+        "bidCount" : "৩",
+        "lowestBid" : "৮৫০"
+    },
+    {
+        "TripID" : "54321",
+        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
+        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
+        "Time" : "রাত ৯ টা",
+        "Date" : "2019-10-05", 
+        "bidCount" : "৩",
+        "lowestBid" : "৮৫০"
     }
 ]
